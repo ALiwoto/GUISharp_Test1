@@ -7,7 +7,7 @@
 			"type": "process",
 			"args": [
 				"build",
-				"${workspaceFolder}/GUIVoidTest1/GUIVoidTest1.csproj",
+				"${workspaceFolder}/GUISharpTest1/GUISharpTest1.csproj",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
 			],
@@ -19,7 +19,7 @@
 			"type": "process",
 			"args": [
 				"publish",
-				"${workspaceFolder}/GUIVoidTest1/GUIVoidTest1.csproj",
+				"${workspaceFolder}/GUISharpTest1/GUISharpTest1.csproj",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
 			],
@@ -32,7 +32,7 @@
 			"args": [
 				"watch",
 				"run",
-				"${workspaceFolder}/GUIVoidTest1/GUIVoidTest1.csproj",
+				"${workspaceFolder}/GUISharpTest1/GUISharpTest1.csproj",
 				"/property:GenerateFullPaths=true",
 				"/consoleloggerparameters:NoSummary"
 			],

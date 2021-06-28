@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIVoidTest1", "GUIVoidTest1\GUIVoidTest1.csproj", "{6CB5C21A-EB16-48D6-B98A-F18D7CE46785}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUISharpTest1", "GUISharpTest1\GUISharpTest1.csproj", "{6CB5C21A-EB16-48D6-B98A-F18D7CE46785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
-	<!-- GUIVoid test1
+	<!-- GUISharp test1
 	Copyright (C) 2019 - 2021 ALiwoto
 	This file is subject to the terms and conditions defined in
 	file 'LICENSE', which is part of the source code.-->
@@ -7,8 +7,8 @@
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net5.0</TargetFramework>
-		<AssemblyName>GUIVoidTest1</AssemblyName>
-		<RootNamespace>GUIVoidTest1</RootNamespace>
+		<AssemblyName>GUISharpTest1</AssemblyName>
+		<RootNamespace>GUISharpTest1</RootNamespace>
 		<NeutralLanguage>en-US</NeutralLanguage>
 	</PropertyGroup>
 	<!--===================================================-->
@@ -18,8 +18,8 @@
 		<AssemblyVersion>2.1.1.25</AssemblyVersion>
 		<FileVersion>2.1.1.25</FileVersion>
 		<Authors>ALiwoto</Authors>
-		<Product>GUIVoidTest1</Product>
-		<Description>GUIVoid test1</Description>
+		<Product>GUISharpTest1</Product>
+		<Description>GUISharp test1</Description>
 		<Copyright>Copyright © ALiwoto	2021</Copyright>
 		<Company>ALiwoto</Company>
 		<PackageLicenseExpression>Under The Lisence of woto_team Corporation</PackageLicenseExpression>
@@ -41,10 +41,10 @@
 	</ItemGroup>
 	<!--===================================================-->
 	<ItemGroup>
-	  <PackageReference Include="GUIVoid" Version="1.0.9" />
+	  <PackageReference Include="GUISharp" Version="1.0.10" />
 	</ItemGroup>
 	<!--===================================================-->
 </Project>
 
-<!--End of the GUIVoidTest1 Project File.-->
+<!--End of the GUISharpTest1 Project File.-->
 <!--2019 - 2021 (C) ALiwoto-->
